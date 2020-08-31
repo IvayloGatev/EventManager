@@ -1,0 +1,8 @@
+D:\Ivo\Програми\Internship\EventManager\EventManager\bin\Debug\Database.mdf
+D:\Ivo\Програми\Internship\EventManager\EventManager\bin\Debug\Database_log.ldf
+D:\Ivo\Програми\Internship\EventManager\EventManager\bin\Debug\EventManager.exe.config
+D:\Ivo\Програми\Internship\EventManager\EventManager\bin\Debug\EventManager.exe
+D:\Ivo\Програми\Internship\EventManager\EventManager\bin\Debug\EventManager.pdb
+D:\Ivo\Програми\Internship\EventManager\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
+D:\Ivo\Програми\Internship\EventManager\EventManager\obj\Debug\EventManager.exe
+D:\Ivo\Програми\Internship\EventManager\EventManager\obj\Debug\EventManager.pdb
